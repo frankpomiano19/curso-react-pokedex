@@ -3,18 +3,18 @@ _Sistema hecho con React y TypeScript que muestra la información de una pokedex
 
 ## Pre-requisitos
 _Para inicializar el sistema es necesario:_
-'''
+...
 1. Node JS
 2. VSCode
 3. GIT
 4. React
-'''
+...
 ### Instalacion
-'''
+...
 _Bajar los archivos_
-'''
+...
 ## Despligue
-_Escribir el comando_ "npm run start" _para iniciar el programa_
+_Construir y publicar_
 
 ## Construido con
 
