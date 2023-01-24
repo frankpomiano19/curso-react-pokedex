@@ -22,7 +22,7 @@ export async function getpokemons():Promise<Pokemon[]>{
 
     const unicosPokemons = pokemons.filter(
         (pokemon: any,index: number)=>
-        pokemons.findIndex((other:any)=>other.id == pokemon.id) === index
+        pokemons.findIndex((other:any)=>other.id === pokemon.id) === index
     );
 
     return unicosPokemons;    
