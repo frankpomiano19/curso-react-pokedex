@@ -1,3 +1,27 @@
+# Web App de Listado de Pokemon
+_Sistema hecho con React y TypeScript que muestra la información de una pokedex._
+
+## Pre-requisitos
+_Para inicializar el sistema es necesario:_
+'''
+1. Node JS
+2. VSCode
+3. GIT
+4. React
+'''
+### Instalacion
+'''
+_Bajar los archivos_
+'''
+## Despligue
+_Escribir el comando_ "npm run start" _para iniciar el programa_
+
+## Construido con
+
+_Las herramientas usadas son las siguientes_
+* [Visual Studio Code] - Editor de Código
+* [Git] - Manejador de versiones
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
